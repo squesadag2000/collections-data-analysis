@@ -5,7 +5,7 @@ Sebastian Quesada
 
 ## Objective
 
-Analyze customer financial data to understand debt patterns.
+Analyze customer financial data to identify debt patterns and generate insights that support more effective collections strategies.
 
 ## Tools
 
