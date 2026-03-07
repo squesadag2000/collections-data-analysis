@@ -16,4 +16,4 @@ Analyze customer financial data to identify debt patterns and generate insights 
 
 ## Files
 
-collections_project.ipynb → Analysis notebook
+collections_project.ipynb
